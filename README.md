@@ -49,7 +49,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 
 
 ## Deploy
-You can deploy this bot 
+You can deploy this bot anywhare
 
 <details><summary>Deploy To Heroku</summary>
 <p>
