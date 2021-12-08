@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" alt="hi">
+  <img src="assets/hi.jpj" alt="hi">
 </p>
 <h1 align="center">
   <b>DailyUpdatesBot</b>
