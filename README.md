@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/https://telegra.ph/file/4af4be50fe02539f3f6ba.jpg.jpj" alt="hi">
+  <img src="assets/https://telegra.ph/file/4af4be50fe02539f3f6ba.jpg" alt="hi">
 </p>
 <h1 align="center">
   <b>DailyUpdatesBot</b>
